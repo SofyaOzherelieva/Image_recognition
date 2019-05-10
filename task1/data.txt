@@ -1,0 +1,15 @@
+./Dataset/01.jpg
+./Dataset/02.jpg
+./Dataset/03.jpg
+./Dataset/04.jpg
+./Dataset/05.JPG
+./Dataset/06.JPG
+./Dataset/07.JPG
+./Dataset/08.JPG
+./Dataset/09.JPG
+./Dataset/10.JPG
+./Dataset/11.JPG
+./Dataset/12.JPG
+./Dataset/13.JPG
+./Dataset/14.JPG
+./Dataset/15.JPG
